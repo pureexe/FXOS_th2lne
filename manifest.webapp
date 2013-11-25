@@ -1,0 +1,13 @@
+{
+  "name": "Thai2Lne",
+  "description": "Convert thai2len",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Pakkapon Phongthawee",
+    "url": "https://github.com/pureexe"
+  },
+ "default_locale": "en-US",
+  "icons": {
+    "128": "/style/icons/Blank.png"
+  }
+}
