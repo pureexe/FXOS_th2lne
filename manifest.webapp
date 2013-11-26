@@ -1,7 +1,7 @@
 {
   "name": "Thai2Lne",
-  "description": "Convert thai2len",
-  "launch_path": "/index.html",
+  "description": "convert thai2len",
+  "launch_path":/FXOS_th2lne/index.html",
   "developer": {
     "name": "Pakkapon Phongthawee",
     "url": "https://github.com/pureexe"
